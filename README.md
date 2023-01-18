@@ -11,11 +11,7 @@
 + and I want you to give the file on WhatsApp in a private chat
 + which also isn't allowed
 + It should be in a shared group in Teams
-
-
-
-[11:37 PM] Mr. Hackney
-which also isn't allowed
++ which also isn't allowed
 
 
 
